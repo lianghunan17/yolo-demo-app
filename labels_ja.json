@@ -1,0 +1,322 @@
+{
+  "person": {
+    "ja": "人",
+    "aliases": ["人", "人物", "ひと"]
+  },
+  "bicycle": {
+    "ja": "自転車",
+    "aliases": ["自転車", "じてんしゃ"]
+  },
+  "car": {
+    "ja": "車",
+    "aliases": ["車", "自動車", "くるま"]
+  },
+  "motorcycle": {
+    "ja": "バイク",
+    "aliases": ["バイク", "オートバイ"]
+  },
+  "airplane": {
+    "ja": "飛行機",
+    "aliases": ["飛行機", "ひこうき"]
+  },
+  "bus": {
+    "ja": "バス",
+    "aliases": ["バス"]
+  },
+  "train": {
+    "ja": "電車",
+    "aliases": ["電車", "列車"]
+  },
+  "truck": {
+    "ja": "トラック",
+    "aliases": ["トラック"]
+  },
+  "boat": {
+    "ja": "船",
+    "aliases": ["船", "ボート"]
+  },
+  "traffic light": {
+    "ja": "信号機",
+    "aliases": ["信号機", "信号"]
+  },
+  "fire hydrant": {
+    "ja": "消火栓",
+    "aliases": ["消火栓"]
+  },
+  "stop sign": {
+    "ja": "一時停止標識",
+    "aliases": ["一時停止標識", "標識"]
+  },
+  "parking meter": {
+    "ja": "パーキングメーター",
+    "aliases": ["パーキングメーター"]
+  },
+  "bench": {
+    "ja": "ベンチ",
+    "aliases": ["ベンチ"]
+  },
+  "bird": {
+    "ja": "鳥",
+    "aliases": ["鳥", "とり"]
+  },
+  "cat": {
+    "ja": "猫",
+    "aliases": ["猫", "ねこ", "ネコ"]
+  },
+  "dog": {
+    "ja": "犬",
+    "aliases": ["犬", "いぬ", "イヌ"]
+  },
+  "horse": {
+    "ja": "馬",
+    "aliases": ["馬", "うま"]
+  },
+  "sheep": {
+    "ja": "羊",
+    "aliases": ["羊", "ひつじ"]
+  },
+  "cow": {
+    "ja": "牛",
+    "aliases": ["牛", "うし"]
+  },
+  "elephant": {
+    "ja": "象",
+    "aliases": ["象", "ぞう"]
+  },
+  "bear": {
+    "ja": "熊",
+    "aliases": ["熊", "くま"]
+  },
+  "zebra": {
+    "ja": "シマウマ",
+    "aliases": ["シマウマ", "しまうま"]
+  },
+  "giraffe": {
+    "ja": "キリン",
+    "aliases": ["キリン", "きりん"]
+  },
+  "backpack": {
+    "ja": "リュック",
+    "aliases": ["リュック", "バッグ", "リュックサック"]
+  },
+  "umbrella": {
+    "ja": "傘",
+    "aliases": ["傘", "かさ"]
+  },
+  "handbag": {
+    "ja": "ハンドバッグ",
+    "aliases": ["ハンドバッグ", "バッグ"]
+  },
+  "tie": {
+    "ja": "ネクタイ",
+    "aliases": ["ネクタイ"]
+  },
+  "suitcase": {
+    "ja": "スーツケース",
+    "aliases": ["スーツケース", "キャリーケース"]
+  },
+  "frisbee": {
+    "ja": "フリスビー",
+    "aliases": ["フリスビー"]
+  },
+  "skis": {
+    "ja": "スキー",
+    "aliases": ["スキー"]
+  },
+  "snowboard": {
+    "ja": "スノーボード",
+    "aliases": ["スノーボード"]
+  },
+  "sports ball": {
+    "ja": "ボール",
+    "aliases": ["ボール", "スポーツボール"]
+  },
+  "kite": {
+    "ja": "凧",
+    "aliases": ["凧", "たこ"]
+  },
+  "baseball bat": {
+    "ja": "野球バット",
+    "aliases": ["野球バット", "バット"]
+  },
+  "baseball glove": {
+    "ja": "野球グローブ",
+    "aliases": ["野球グローブ", "グローブ"]
+  },
+  "skateboard": {
+    "ja": "スケートボード",
+    "aliases": ["スケートボード"]
+  },
+  "surfboard": {
+    "ja": "サーフボード",
+    "aliases": ["サーフボード"]
+  },
+  "tennis racket": {
+    "ja": "テニスラケット",
+    "aliases": ["テニスラケット", "ラケット"]
+  },
+  "bottle": {
+    "ja": "ボトル",
+    "aliases": ["ボトル", "ペットボトル", "水筒"]
+  },
+  "wine glass": {
+    "ja": "ワイングラス",
+    "aliases": ["ワイングラス", "グラス"]
+  },
+  "cup": {
+    "ja": "カップ",
+    "aliases": ["カップ", "コップ", "マグカップ"]
+  },
+  "fork": {
+    "ja": "フォーク",
+    "aliases": ["フォーク"]
+  },
+  "knife": {
+    "ja": "ナイフ",
+    "aliases": ["ナイフ", "包丁"]
+  },
+  "spoon": {
+    "ja": "スプーン",
+    "aliases": ["スプーン"]
+  },
+  "bowl": {
+    "ja": "ボウル",
+    "aliases": ["ボウル", "皿", "お椀"]
+  },
+  "banana": {
+    "ja": "バナナ",
+    "aliases": ["バナナ"]
+  },
+  "apple": {
+    "ja": "りんご",
+    "aliases": ["りんご", "リンゴ", "林檎"]
+  },
+  "sandwich": {
+    "ja": "サンドイッチ",
+    "aliases": ["サンドイッチ"]
+  },
+  "orange": {
+    "ja": "オレンジ",
+    "aliases": ["オレンジ", "みかん"]
+  },
+  "broccoli": {
+    "ja": "ブロッコリー",
+    "aliases": ["ブロッコリー"]
+  },
+  "carrot": {
+    "ja": "にんじん",
+    "aliases": ["にんじん", "人参"]
+  },
+  "hot dog": {
+    "ja": "ホットドッグ",
+    "aliases": ["ホットドッグ"]
+  },
+  "pizza": {
+    "ja": "ピザ",
+    "aliases": ["ピザ"]
+  },
+  "donut": {
+    "ja": "ドーナツ",
+    "aliases": ["ドーナツ"]
+  },
+  "cake": {
+    "ja": "ケーキ",
+    "aliases": ["ケーキ"]
+  },
+  "chair": {
+    "ja": "椅子",
+    "aliases": ["椅子", "いす", "イス"]
+  },
+  "couch": {
+    "ja": "ソファ",
+    "aliases": ["ソファ", "ソファー"]
+  },
+  "potted plant": {
+    "ja": "観葉植物",
+    "aliases": ["観葉植物", "植物", "鉢植え"]
+  },
+  "bed": {
+    "ja": "ベッド",
+    "aliases": ["ベッド"]
+  },
+  "dining table": {
+    "ja": "テーブル",
+    "aliases": ["テーブル", "机"]
+  },
+  "toilet": {
+    "ja": "トイレ",
+    "aliases": ["トイレ"]
+  },
+  "tv": {
+    "ja": "テレビ",
+    "aliases": ["テレビ", "TV"]
+  },
+  "laptop": {
+    "ja": "ノートPC",
+    "aliases": ["ノートPC", "パソコン", "PC", "ノートパソコン"]
+  },
+  "mouse": {
+    "ja": "マウス",
+    "aliases": ["マウス"]
+  },
+  "remote": {
+    "ja": "リモコン",
+    "aliases": ["リモコン"]
+  },
+  "keyboard": {
+    "ja": "キーボード",
+    "aliases": ["キーボード"]
+  },
+  "cell phone": {
+    "ja": "スマホ",
+    "aliases": ["スマホ", "携帯", "携帯電話", "スマートフォン"]
+  },
+  "microwave": {
+    "ja": "電子レンジ",
+    "aliases": ["電子レンジ", "レンジ"]
+  },
+  "oven": {
+    "ja": "オーブン",
+    "aliases": ["オーブン"]
+  },
+  "toaster": {
+    "ja": "トースター",
+    "aliases": ["トースター"]
+  },
+  "sink": {
+    "ja": "シンク",
+    "aliases": ["シンク", "流し台"]
+  },
+  "refrigerator": {
+    "ja": "冷蔵庫",
+    "aliases": ["冷蔵庫"]
+  },
+  "book": {
+    "ja": "本",
+    "aliases": ["本", "書籍"]
+  },
+  "clock": {
+    "ja": "時計",
+    "aliases": ["時計"]
+  },
+  "vase": {
+    "ja": "花瓶",
+    "aliases": ["花瓶"]
+  },
+  "scissors": {
+    "ja": "はさみ",
+    "aliases": ["はさみ", "ハサミ"]
+  },
+  "teddy bear": {
+    "ja": "ぬいぐるみ",
+    "aliases": ["ぬいぐるみ", "テディベア"]
+  },
+  "hair drier": {
+    "ja": "ドライヤー",
+    "aliases": ["ドライヤー"]
+  },
+  "toothbrush": {
+    "ja": "歯ブラシ",
+    "aliases": ["歯ブラシ"]
+  }
+}
